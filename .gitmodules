@@ -40,3 +40,6 @@
 [submodule "projects/misc/geotagx-project-sample"]
 	path = projects/misc/geotagx-project-sample
 	url = git@github.com:geotagx/geotagx-project-sample
+[submodule "project-template"]
+	path = project-template
+	url = git@github.com:spmohanty/geotagx_project_template
