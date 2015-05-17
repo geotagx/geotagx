@@ -43,3 +43,6 @@
 [submodule "project-template"]
 	path = project-template
 	url = git@github.com:spmohanty/geotagx_project_template
+[submodule "theme"]
+	path = theme
+	url = git@github.com:spmohanty/geotagx-theme
