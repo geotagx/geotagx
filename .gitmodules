@@ -46,3 +46,6 @@
 [submodule "theme"]
 	path = theme
 	url = git@github.com:geotagx/geotagx-theme
+[submodule "pybossa"]
+	path = pybossa
+	url = https://github.com/pybossa/pybossa.git
