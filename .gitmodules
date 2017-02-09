@@ -52,3 +52,6 @@
 [submodule "toolkit"]
 	path = toolkit
 	url = https://github.com/othieno/geotagx-toolkit.git
+[submodule "plugins/pybossa-geotagx"]
+	path = plugins/pybossa-geotagx
+	url = https://github.com/geotagx/geotagx-plugin.git
