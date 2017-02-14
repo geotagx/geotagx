@@ -1,57 +1,57 @@
 [submodule "projects/yamuna-monsoon-flooding-2013/geotagx-project-yamuna-floodwaters-2013"]
 	path = projects/yamuna-monsoon-flooding-2013/geotagx-project-yamuna-floodwaters-2013
-	url = git@github.com:geotagx/geotagx-project-yamuna-floodwaters-2013
+	url = git://github.com/geotagx/geotagx-project-yamuna-floodwaters-2013
 [submodule "projects/yamuna-monsoon-flooding-2013/geotagx-project-yamuna-animals-2013"]
 	path = projects/yamuna-monsoon-flooding-2013/geotagx-project-yamuna-animals-2013
-	url = git@github.com:geotagx/geotagx-project-yamuna-animals-2013
+	url = git://github.com/geotagx/geotagx-project-yamuna-animals-2013
 [submodule "projects/yamuna-monsoon-flooding-2013/geotagx-project-yamuna-geotag-2013"]
 	path = projects/yamuna-monsoon-flooding-2013/geotagx-project-yamuna-geotag-2013
-	url = git@github.com:geotagx/geotagx-project-yamuna-geotag-2013
+	url = git://github.com/geotagx/geotagx-project-yamuna-geotag-2013
 [submodule "projects/yamuna-monsoon-flooding-2013/geotagx-project-yamuna-people-2013"]
 	path = projects/yamuna-monsoon-flooding-2013/geotagx-project-yamuna-people-2013
-	url = git@github.com:geotagx/geotagx-project-yamuna-people-2013
+	url = git://github.com/geotagx/geotagx-project-yamuna-people-2013
 [submodule "projects/yamuna-monsoon-flooding-2013/geotagx-project-yamuna-pollution-2013"]
 	path = projects/yamuna-monsoon-flooding-2013/geotagx-project-yamuna-pollution-2013
-	url = git@github.com:geotagx/geotagx-project-yamuna-pollution-2013
+	url = git://github.com/geotagx/geotagx-project-yamuna-pollution-2013
 [submodule "projects/yamuna-monsoon-flooding-2013/geotagx-project-yamuna-shelter-2013"]
 	path = projects/yamuna-monsoon-flooding-2013/geotagx-project-yamuna-shelter-2013
-	url = git@github.com:geotagx/geotagx-project-yamuna-shelter-2013
+	url = git://github.com/geotagx/geotagx-project-yamuna-shelter-2013
 [submodule "projects/emergency-shelter-assessment-in-the-middle-east/geotagx-project-middle-east-winter-shelters"]
 	path = projects/emergency-shelter-assessment-in-the-middle-east/geotagx-project-middle-east-winter-shelters
-	url = git@github.com:geotagx/geotagx-project-middle-east-winter-shelters
+	url = git://github.com/geotagx/geotagx-project-middle-east-winter-shelters
 [submodule "projects/emergency-shelter-assessment-in-the-middle-east/geotagx-project-middle-east-reach-geotag"]
 	path = projects/emergency-shelter-assessment-in-the-middle-east/geotagx-project-middle-east-reach-geotag
-	url = git@github.com:geotagx/geotagx-project-middle-east-reach-geotag
+	url = git://github.com/geotagx/geotagx-project-middle-east-reach-geotag
 [submodule "projects/somali-drought/geotagx-project-somalia-animal-identification"]
 	path = projects/somali-drought/geotagx-project-somalia-animal-identification
-	url = git@github.com:geotagx/geotagx-project-somalia-animal-identification
+	url = git://github.com/geotagx/geotagx-project-somalia-animal-identification
 [submodule "projects/somali-drought/geotagx-project-somalia-crop-identification"]
 	path = projects/somali-drought/geotagx-project-somalia-crop-identification
-	url = git@github.com:geotagx/geotagx-project-somalia-crop-identification
+	url = git://github.com/geotagx/geotagx-project-somalia-crop-identification
 [submodule "projects/yemeni-agricultural-water-assessment/geotagx-project-yemen-geotag"]
 	path = projects/yemeni-agricultural-water-assessment/geotagx-project-yemen-geotag
-	url = git@github.com:geotagx/geotagx-project-yemen-geotag
+	url = git://github.com/geotagx/geotagx-project-yemen-geotag
 [submodule "projects/ebola-response/geotagx-project-ebola"]
 	path = projects/ebola-response/geotagx-project-ebola
-	url = git@github.com:geotagx/geotagx-project-ebola
+	url = git://github.com/geotagx/geotagx-project-ebola
 [submodule "projects/ebola-response/geotagx-project-ebola-geotag"]
 	path = projects/ebola-response/geotagx-project-ebola-geotag
-	url = git@github.com:geotagx/geotagx-project-ebola-geotag
+	url = git://github.com/geotagx/geotagx-project-ebola-geotag
 [submodule "projects/misc/geotagx-project-sample"]
 	path = projects/misc/geotagx-project-sample
-	url = git@github.com:geotagx/geotagx-project-sample
+	url = git://github.com/geotagx/geotagx-project-sample
 [submodule "theme"]
 	path = theme
-	url = git@github.com:geotagx/geotagx-theme
+	url = git://github.com/geotagx/geotagx-theme
 [submodule "pybossa"]
 	path = pybossa
-	url = https://github.com/pybossa/pybossa.git
+	url = git://github.com/pybossa/pybossa.git
 [submodule "toolkit"]
 	path = toolkit
-	url = https://github.com/othieno/geotagx-toolkit.git
+	url = git://github.com/othieno/geotagx-toolkit.git
 [submodule "plugins/pybossa-plugin-geotagx"]
 	path = plugins/pybossa-plugin-geotagx
-	url = https://github.com/geotagx/pybossa-plugin-geotagx.git
+	url = git://github.com/geotagx/pybossa-plugin-geotagx.git
 [submodule "documentation"]
 	path = documentation
-	url = https://github.com/othieno/geotagx-documentation.git
+	url = git://github.com/othieno/geotagx-documentation.git
